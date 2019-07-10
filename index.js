@@ -4,7 +4,7 @@ const chalk = require ("chalk");
 console.log(
     chalk.blue(
         figlet.textSync("RUNNING PACKAGE 2", {
-            font: "Univers",
+            font: "Small",
             horizontalLayout: "default",
             verticalLayout: "default"
         })
